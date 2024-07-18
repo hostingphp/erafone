@@ -1,2 +1,2 @@
 # erafone
-php
+web
